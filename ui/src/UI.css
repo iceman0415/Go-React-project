@@ -1,0 +1,19 @@
+.UI {
+  text-align: center;
+}
+
+.UI-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.UI-title {
+  vertical-align: text-top;
+  color: #61dafb;
+}
